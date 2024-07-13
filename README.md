@@ -17,4 +17,5 @@
   * Copy bin path and add it in system environment
     * Windows→ sys environment→ environment variables→sys.Variables→Select Path→edit_environment_variable→new→paste the bin path
  
-
+### RESULT
+* The Pdf file and output images are attached for case study
